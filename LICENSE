@@ -1,0 +1,176 @@
+GNU GENERAL PUBLIC LICENSE
+                   Version 2, June 1991
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                     Preamble
+
+ The GNU General Public License is a free, copyleft license for
+ software and other kinds of works.
+
+ The licenses for most software are designed to take away your
+ freedom to share and change it. By contrast, the GNU General
+ Public License is intended to guarantee your freedom to share
+ and change all versions of a program—to make sure it remains
+ free software for all its users.
+
+ When we speak of free software, we are referring to freedom,
+ not price. Our General Public Licenses are designed to make sure
+ that you have the freedom to distribute copies of free software
+ (and charge for this service if you wish), that you receive
+ source code or can get it if you want it, and that you can
+ change the software and share your changes with others.
+
+ Developers that use the GNU GPL protect your rights with two
+ steps: (1) assert your right to make changes to the software,
+ and (2) provide a place for you to send those changes when you
+ share the software.  For the full text of the GPL license, please refer to http://www.gnu.org/licenses/gpl-2.0.html
+
+                              TERMS AND CONDITIONS
+
+ 0. This License applies to any program or other work which
+ contains a notice placed by the copyright holder saying it is
+ distributed under the terms of this General Public License.  The
+ "Program", below, refers to any such program or work, and a
+ "work based on the Program" means either the Program or any
+ derivative work under copyright law: that is to say, a work
+ containing the Program or a portion of it, either verbatim or
+ with modifications.  Each licensee is addressed as "you".
+
+ Activities other than copying, distribution and modification are
+ not covered by this License; they are outside its scope.  The
+ act of running the Program is not restricted, and the output
+ from the Program is not restricted.
+
+ "Source code" for a work means the preferred form of the work
+ for making modifications to it.  For a executable work, it means
+ the source code, object code, plus any associated interface
+ definition files, plus the scripts used to control compilation
+ and installation of an executable.  This License applies to the
+ output from the Program as well as to the Program itself.
+
+ 1. You may copy and distribute verbatim copies of the Program's
+ source code as you receive it, in any medium, provided that you
+ conspicuously and appropriately publish on each copy an
+ appropriate copyright notice and disclaimer of warranty;
+ keep intact all the notices that refer to this License and to
+ the absence of any warranty; and give any other recipients of
+ the Program a copy of this License along with the Program.
+
+ You may charge a fee for the physical act of transferring a copy,
+ and you may at your option offer warranty protection in exchange
+ for a fee.
+
+ 2. You may modify your copy or copies of the Program or any
+ portion of it, thus forming a work based on the Program, and
+ copy and distribute such modifications under the terms of this
+ License, provided that you also meet all of these conditions:
+
+ a) You must cause any work that you distribute or publish, that
+ in whole or in part contains or is derived from the Program or
+ any part thereof, to be licensed as a whole at no charge to
+ all third parties under the terms of this License.
+
+ b) If you distribute or publish a modified version of the Program
+ you must keep intact all the notices that refer to this License
+ and to the absence of any warranty; and you must provide an
+ appropriate copyright notice and disclaimer of warranty.
+
+ c) You must include a copy of this License along with the Program,
+ or provide a link to the location of the License on the internet.
+
+ d) You must keep intact all the notices that refer to the absence
+ of any warranty; and you must provide an appropriate copyright
+ notice and disclaimer of warranty.
+
+ 3. You may not impose any further restrictions on the exercise of
+ the rights granted or affirmed under this License.  You may not
+ combine this software with other software licensed under terms
+ that contradict this License.  However, you may convey
+ non-exclusive licenses to use the same work under different
+ terms, provided that you do not impose any further
+ restrictions.
+
+ 4. This License shall not apply to any works that are not
+ derivative works.  If you wish to incorporate parts of the
+ Program into other free works whose distribution terms are
+ different, you may do so if you remove this License, but
+ this may make the other work non-free.
+
+ 5. You are not required to accept this License, since you have not
+ signed it.  However, nothing else grants you permission to use
+ the Program.  These terms impose no restrictions on your
+ other rights under copyright law.
+
+ 6. Each time you redistribute the Program (or any work based on the
+ Program), the recipient automatically receives a license from the
+ original licensor to use the Program subject to these terms and
+ conditions.  Therefore, you may not add any further restrictions
+ to the recipients' rights.  You may not impose a license fee or
+ similar charge for this license, or for transferring a copy of the
+ Program.
+
+ 7. If you interact with a user interface, this License requires you
+ to inform that user interface that it is powered by the Program,
+ unless the Program is being used to provide tools for the user to
+ interact with the service.
+
+ 8. If any portion of this License is held invalid or unenforceable,
+ whatever its cause may be, it shall not affect the validity of the
+ remaining portions of this License, and in such case, the
+ provisions of this License that are held invalid or unenforceable
+ shall be construed as if they were written without the invalid or
+ unenforceable portions.
+
+ 9. Each time you redistribue the Program (or any work based on the
+ Program), the recipient automatically receives a license from the
+ original licensor to use the Program subject to these terms and
+ conditions.  Therefore, you may not add any further restrictions
+ to the recipients' rights.  You may not impose a license fee or
+ similar charge for this license, or for transferring a copy of the
+ Program.
+
+ 10. If any portion of this License is held invalid or unenforceable,
+ whatever its cause may be, it shall not affect the validity of the
+ remaining portions of this License, and in such case, the
+ provisions of this License that are held invalid or unenforceable
+ shall be construed as if they were written without the invalid or
+ unenforceable portions.
+
+                     END OF TERMS AND CONDITIONS
+
+ How to Apply These Terms to Your New Programs
+ If you develop a new program, and you want it to be of the greatest
+ possible benefit to the public, the best way you can achieve this
+ is to make the program free software that everyone can redistribute
+ and change under these terms.
+
+ For example, if you create a program for use by other people, the
+ simplest way for you to achieve this is to put it under the GPL.
+ This means that everyone else can use, modify, and distribute your
+ program, but it also means that you will not be able to limit how
+ others use it.
+
+ To make sure everyone finds out that your program is free,
+ you must include a copy of the GPL along with your program.
+ Of course, your program also needs to have a name, and the Program
+ should be called "Your Program" when you look for people to help
+ you distribute it.
+
+ Finally, make sure that you make it clear that you are the author of
+ the original program.  This will help everyone know who the
+ original creator is, and it will also help you establish your
+ authorship, in case there are any future disputes.  The GPL is your
+ protective measure for your work.
+
+ This is how to apply these terms to your new programs:
+ 1. You can copy and distribute verbatim copies of the GPL License
+ document, but changing it is not allowed.
+ 2. Your new program must include the copyright notice, and you must specify
+ that the program is licensed under the GPL license.
+ 3. If you plan to charge people for a copy of your new program, you
+ must include the GPL license with it, and mention that they can get
+ a free copy of the GPL document from the Free Software Foundation's website.

@@ -1,17 +1,9 @@
 <?php
-/*
-Template Name: Default Template
-*/
+// Default template for WP Portfolio
 
-get_header();
+function wp_portfolio_template() {
+    // Add your default template code here
+    echo '<h1>Welcome to WP Portfolio</h1>';
+}
 
-?>
-
-<div class="content">
-    <h1>Hello, World!</h1>
-    <p>This is the default template for index.php.</p>
-</div>
-
-<?php
-get_footer();
-?>
+add_action('wp_head', 'wp_portfolio_template');
